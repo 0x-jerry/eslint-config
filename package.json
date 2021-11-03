@@ -5,6 +5,12 @@
   "repository": "git@github.com:0x-jerry/eslint-config.git",
   "author": "0x-jerry <x.jerry.wang@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.3.0",
     "@typescript-eslint/parser": "^5.3.0",
