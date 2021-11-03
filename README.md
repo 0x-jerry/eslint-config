@@ -1,2 +1,7 @@
 # eslint-config
-ESLint preset
+
+Personal ESLint config preset.
+
+```
+yarn add @0x-jerry/eslint-config
+```
