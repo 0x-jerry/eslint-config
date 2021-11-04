@@ -5,9 +5,9 @@ module.exports = {
     'vue/setup-compiler-macros': true,
   },
   extends: [
-    'plugin:vue/vue3-essential',
     'standard',
     'plugin:@typescript-eslint/recommended',
+    'plugin:vue/vue3-essential',
     'prettier',
   ],
   parserOptions: {
